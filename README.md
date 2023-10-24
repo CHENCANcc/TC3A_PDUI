@@ -1,2 +1,2 @@
 # TC3A_PDUI
-PDUI information for 32 cancer types from TCGA samples
+PDUI data of 32 cancer types from the TC3A data portal
